@@ -1,0 +1,86 @@
+@keyframes anione {
+    0% {
+        opacity: 0.75;
+    }
+    8% {
+        opacity: 0.5;
+    }
+    12% {
+        opacity: 0.5;
+    }
+    28% {
+        opacity: 1;
+    }
+    92% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0.75;
+    }
+}
+
+@keyframes anitwo {
+    12% {
+        opacity: 1;
+    }
+    28% {
+        opacity: 0.5;
+    }
+    32% {
+        opacity: 0.5;
+    }
+    48% {
+        opacity: 1;
+    }
+}
+
+@keyframes anithree {
+    32% {
+        opacity: 1;
+    }
+    48% {
+        opacity: 0.5;
+    }
+    52% {
+        opacity: 0.5;
+    }
+    68% {
+        opacity: 1;
+    }
+}
+
+@keyframes anifour {
+    52% {
+        opacity: 1;
+    }
+    68% {
+        opacity: 0.5;
+    }
+    72% {
+        opacity: 0.5;
+    }
+    88% {
+        opacity: 1;
+    }
+}
+
+@keyframes anifive {
+    0% {
+        opacity: 0.75;
+    }
+    8% {
+        opacity: 1;
+    }
+    72% {
+        opacity: 1;
+    }
+    88% {
+        opacity: 0.5;
+    }
+    92% {
+        opacity: 0.5;
+    }
+    100% {
+        opacity: 0.75;
+    }
+}
